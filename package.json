@@ -1,0 +1,16 @@
+{
+    "name": "events-hook",
+    "version": "1.0.0",
+    "description": "Easily sharing state between component",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Its-Just-Nans/events-hook.git"
+    },
+    "author": "n4n5",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Its-Just-Nans/events-hook/issues"
+    },
+    "homepage": "https://github.com/Its-Just-Nans/events-hook#readme"
+}
