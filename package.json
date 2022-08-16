@@ -3,6 +3,13 @@
     "version": "1.0.0",
     "description": "Easily sharing state between component",
     "main": "index.js",
+    "keywords": [
+        "react",
+        "events",
+        "reactjs",
+        "state",
+        "global"
+    ],
     "repository": {
         "type": "git",
         "url": "git+https://github.com/Its-Just-Nans/events-hook.git"
