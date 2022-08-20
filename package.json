@@ -10,6 +10,9 @@
         "state",
         "global"
     ],
+    "scripts": {
+        "test": "echo 'no test'"
+    },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/Its-Just-Nans/events-hook.git"
