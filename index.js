@@ -26,6 +26,6 @@ export const useGetValue = (str) => {
         return () => {
             instance.removeEventListener(str, callback);
         };
-    });
+    }, []);
     return refValue.current;
 };

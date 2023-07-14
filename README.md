@@ -2,7 +2,6 @@
 
 Easily sharing state between component
 
-
 ## Example
 
 ```js
